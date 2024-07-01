@@ -8,7 +8,7 @@ export default function Home() {
                     ลงทะเบียน
                 </h2>
                 <div className="mb-5 flex gap-5 items-center">
-                <a href="https://lineauth.bomboonsan.com/" target="_blank"
+                <a href="https://lineauth.bomboonsan.com/"
                 className="bg-[#00b900]/90 hover:bg-[#00b900] text-white font-bold py-2 px-4 rounded-lg"
                 >LINE LOGIN</a>
                 </div>
